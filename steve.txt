@@ -1,4 +1,5 @@
-New line
+Replace new line
 Another line
 
+Let's implement some features
 Line 4 - Steve
